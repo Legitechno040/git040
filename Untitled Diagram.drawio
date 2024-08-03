@@ -303,6 +303,24 @@
         <mxCell id="uIVVulxG5DIAz92wCkmd-41" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-250" y="-310" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uIVVulxG5DIAz92wCkmd-42" value="Azure Data Factory" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-600.26" y="-530" width="80.26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uIVVulxG5DIAz92wCkmd-43" value="ON Premises SQL Server" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="-220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uIVVulxG5DIAz92wCkmd-44" value="Azure Databricks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-500.26" y="-119" width="90.26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uIVVulxG5DIAz92wCkmd-45" value="Azure Synapse Analytics" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400.26" y="-360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uIVVulxG5DIAz92wCkmd-46" value="Power BI Reports" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uIVVulxG5DIAz92wCkmd-48" value="ADLS Gen 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-643" y="-295" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
